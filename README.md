@@ -1,6 +1,7 @@
 # sing_test_statistics_python
 non parametric sing test in python
 
+#### output
 ```
 # small sample
    Sample(x)  Differnce  - sign  + sign
